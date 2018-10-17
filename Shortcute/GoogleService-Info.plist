@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>440575310816-utv54rk268ccodrpf67gdt3vngkk5fal.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.440575310816-utv54rk268ccodrpf67gdt3vngkk5fal</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB12r4b3Gsi5nJNdXKkH6Zu98qp4rvG7TE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>440575310816</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>club.snoot.Shortcute</string>
+	<key>PROJECT_ID</key>
+	<string>shortcute-chee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shortcute-chee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:440575310816:ios:2aab0953b0928690</string>
+	<key>DATABASE_URL</key>
+	<string>https://shortcute-chee.firebaseio.com</string>
+</dict>
+</plist>
